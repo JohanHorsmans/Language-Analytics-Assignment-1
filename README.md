@@ -10,6 +10,6 @@ To assess my assignment you should download the .ipynb-script in this repository
 
 3: Save the file as an .ipynb-file (windows: ctrl + s // mac: cmd + s)
 
-4: Upload this to you "src" folder in Jupyter notebook. 
+4: Upload this to your "src" folder in Jupyter notebook. 
 
 5: Open the script and run it.
